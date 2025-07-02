@@ -10,7 +10,7 @@ How to Activate ESPN on Your TV?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_15.png
    :width: 350px
    :align: center
    :height: 100px
